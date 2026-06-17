@@ -30,8 +30,7 @@ import net.runelite.client.ui.overlay.OverlayManager;
 @PluginDescriptor(
     name = "Double Max",
     description = "Shows every skill as if a full max (level 99's worth of XP) were removed, so you can chase a second max.",
-    tags = {"skills", "levels", "virtual", "xp", "total", "max", "double"},
-    enabledByDefault = false
+    tags = {"skills", "levels", "virtual", "xp", "total", "max", "double"}
 )
 public class DoubleMaxPlugin extends Plugin
 {
